@@ -9,4 +9,4 @@ let main = "nueva variable del main, luego de crear la ramaprueba";
 
 function principal(){
 
-};
+}
